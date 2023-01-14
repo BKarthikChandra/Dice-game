@@ -6,7 +6,7 @@ var x2 = randomNumber(1,7);
 
 if(x1===1)
 {
- document.getElementById("img1").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice1.png";
+ document.getElementById("img1").src = "images/dice1.png";
 }
 else if(x1===2)
 {
