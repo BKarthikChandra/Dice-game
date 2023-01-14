@@ -10,47 +10,47 @@ if(x1===1)
 }
 else if(x1===2)
 {
-document.getElementById("img1").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice2.png";
+document.getElementById("img1").src =  "images/dice2.png";
 }
 else if(x1===3)
 {
-document.getElementById("img1").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice3.png";
+document.getElementById("img1").src =  "images/dice3.png";
 }
 else if(x1===4)
 {
-document.getElementById("img1").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice4.png";
+document.getElementById("img1").src =  "images/dice4.png";
 }
 else if(x1===5)
 {
-document.getElementById("img1").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice5.png";
+document.getElementById("img1").src =  "images/dice5.png";
 }
 else if(x1===6)
 {
- document.getElementById("img1").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice6.png";
+ document.getElementById("img1").src =  "images/dice6.png";
 }
 if(x2===1)
 {
-  document.getElementById("img2").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice1.png";
+  document.getElementById("img2").src =  "images/dice1.png";
 }
 else if(x2===2)
 {
-    document.getElementById("img2").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice2.png";
+    document.getElementById("img2").src =  "images/dice2.png";
 }
 else if(x2===3)
 {
-    document.getElementById("img2").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice3.png";
+    document.getElementById("img2").src =  "images/dice3.png";
 }
 else if(x2===4)
 {
-     document.getElementById("img2").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice4.png";
+     document.getElementById("img2").src =  "images/dice4.png";
 }
 else if(x2===5)
 {
-     document.getElementById("img2").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice5.png";
+     document.getElementById("img2").src =  "images/dice5.png";
 }
 else if(x2===6)
 {
-     document.getElementById("img2").src = "file:///C:/Users/hp/OneDrive/Desktop/dice%20game/images/dice6.png";
+     document.getElementById("img2").src =   "images/dice6.png";
 }
 
 if(x1>x2)
