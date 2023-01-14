@@ -3,7 +3,8 @@ function randomNumber(min, max) {
 }
 var x1 = randomNumber(1,7);
 var x2 = randomNumber(1,7);
-
+alert(x1);
+alert(x2);
 if(x1===1)
 {
  document.getElementById("img1").src = "dice1.png";
